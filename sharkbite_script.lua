@@ -88,7 +88,7 @@ Instructions.TextScaled = true
 Instructions.Position = UDim2.new(-0.14, 0, 1.053, 0)
 Instructions.Size = UDim2.new(0, 255, 0, 40)
 Instructions.Font = Enum.Font.Fantasy
-Instructions.Text = "For instructions on how to use check this link: https://v3rmillion.net/showthread.php?tid=690359"
+Instructions.Text = "use your brain lmao adriunna"
 
 MainFrame.Name = "MainFrame"
 MainFrame.Parent = Sharkener
@@ -137,7 +137,7 @@ Credits.BorderSizePixel = 3
 Credits.Position = UDim2.new(0, 0, 0.916666627, 0)
 Credits.Size = UDim2.new(0, 200, 0, 25)
 Credits.Font = Enum.Font.Fantasy
-Credits.Text = "Made by ImAndreiFTW!"
+Credits.Text = "Made by ImAndreiFTW! Uploaded to ErenIsCool/scripts by Eren"
 Credits.TextColor3 = Color3.new(0, 1, 1)
 Credits.TextScaled = true
 Credits.TextSize = 14
